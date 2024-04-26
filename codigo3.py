@@ -1,2 +1,2 @@
-nombre = "pelotudazo"
+nombre = "Tontin"
 print ("Hola soy, " + nombre)
